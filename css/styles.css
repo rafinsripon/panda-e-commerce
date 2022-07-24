@@ -1,0 +1,25 @@
+
+nav.navbar {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    /* background-color: #fceae8; */
+}
+
+.carousel-item{
+    background-color: #fceae8;
+}
+.categories img{
+    width: 100px;
+}
+.panda-btn-buy-now{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    margin-top: 20px;
+} 
+
+.custom-style{
+    background: #fceae8;
+}
